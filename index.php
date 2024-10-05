@@ -1,342 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Square Ball Digital</title>
-	<meta name="description" content="Square Ball - Web And Agency HTML Template">
-	<meta name="keywords" content="agency, app, business, company, corporate, designer, freelance, fullpage, modern, office, personal, portfolio, professional, web, web agency">
-	<meta name="author" content="Themexriver">
-	<link rel="shortcut icon" href="assets/img/logo/favicon.png" type="image/x-icon">
-	<!-- Mobile Specific Meta -->
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-	<link rel="stylesheet" href="assets/css/fontawesome.css">
-	<link rel="stylesheet" href="assets/css/animate.css">
-	<link rel="stylesheet" href="assets/css/global.css">
-	<link rel="stylesheet" href="assets/css/swiper.min.css">
-	<link rel="stylesheet" href="assets/css/magnific-popup.css">
-	<link rel="stylesheet" href="assets/css/style.css">
-</head>
-<body class="home-4">
-	<div id="preloader"></div>
-	<div class="up">
-		<a href="#" class="scrollup text-center"><i class="fas fa-chevron-up"></i></a>
-	</div>
-	<div class="cursor"></div>
-<!-- Start of Header section
-	============================================= -->
-	<header id="bi-header" class="bi-header-section header-style-four">
-		<div class="bi-header-content d-flex justify-content-between align-items-center">
-			<div class="brand-logo">
-				<a href="index.html"><img src="assets/img/logo/new-sqr-logo.png" alt=""></a>
-			</div>
-			<div class="bi-header-main-navigation">
-				<nav class="main-navigation clearfix ul-li">
-					<ul id="main-nav" class="nav navbar-nav clearfix">
-						
-						<li>
-							<a href="index.html">Home</a>
-						</li>
-						<li><a href="about.html" target="_blank">About</a></li>
-						<li>
-							<a href="blog-1.html">Blog</a>
-						</li>
-
-						<li class="dropdown">
-							<a href="!#">Pages</a>
-							<ul class="dropdown-menu clearfix">
-								<li class="dropdown">
-									<a href="service-single.html">Services</a>
-									<ul class="dropdown-menu clearfix">
-										<li><a href="service.html" target="_blank">Brand & Art</a></li>
-										<li><a href="service.html" target="_blank">Graphic Designing</a></li>
-										<li><a href="service.html" target="_blank">Digital Marketing</a></li>
-										<li><a href="service.html" target="_blank">Web Design & Development</a></li>
-										<li><a href="service.html" target="_blank">3D Animation</a></li>
-										<li><a href="service.html" target="_blank">Branding & Illustration</a></li>
-									</ul>
-								</li>
-								<li><a href="contact.html" target="_blank">Contact</a></li>
-								<li><a href="pricing.html" target="_blank">Pricing</a></li>
-								<li class="dropdown">
-									<a href="!#">Career</a>
-									<ul class="dropdown-menu clearfix">
-										<li><a href="career.html" target="_blank">Career</a></li>
-										<li><a href="career-single.html" target="_blank">Career Details</a></li>
-									</ul>
-								</li>
-								<li><a href="job-apply.html" target="_blank">Jop Apply</a></li>
-								<li><a href="team.html" target="_blank">Team Page</a></li>
-								<li><a href="team-single.html" target="_blank">Team Details</a></li>
-								<li class="dropdown">
-									<a href="!#">Portfolio</a>
-									<ul class="dropdown-menu clearfix">
-										<li><a href="portfolio.html" target="_blank">Portfolio</a></li>
-										<li><a href="portfolio-single.html" target="_blank">Portfolio Details</a></li>
-									</ul>
-								</li>
-							</ul>
-						</li>
-						<li class="dropdown">
-							<a href="!#">Others</a>
-							<ul class="dropdown-menu clearfix">
-								<li><a href="testimonial.html" target="_blank">Testimonial</a></li>
-								<li><a href="faq.html" target="_blank">Faq Page</a></li>
-								<li><a href="terms-condition.html" target="_blank">Terms & Condition</a></li>
-								<li><a href="privacy-policy.html" target="_blank">Privacy Policy</a></li>
-								<li><a href="coming-soon.html" target="_blank">Coming Soon</a></li>
-								<li><a href="404.html" target="_blank">Not Found</a></li>
-							</ul>
-						</li>
-					</ul>
-				</nav>
-			</div>
-			<div class="bi-header-main-menu-cta-area d-flex align-items-center">
-				<div class="bi-header-social">
-					<a href="#"> <i class="fab fa-instagram"></i></a>
-					<a href="#"> <i class="fab fa-linkedin-in"></i></a>
-					<a href="#"> <i class="fab fa-facebook"></i></a>
-					<a href="#"> <i class="fab fa-youtube"></i></a>
-				</div>
-			</div>
-		</div>
-		<!--Mobile menu start-->
-		<div class="mobile_menu position-relative">
-			<div class="mobile_menu_button open_mobile_menu">
-				<i class="fal fa-bars"></i>
-			</div>
-			<div class="mobile_menu_wrap">
-				<div class="mobile_menu_overlay open_mobile_menu"></div>
-				<div class="mobile_menu_content">
-					<div class="mobile_menu_close open_mobile_menu">
-						<i class="fal fa-times"></i>
-					</div>
-					<div class="m-brand-logo">
-						<a href="!#"><img src="assets/img/logo/logo2.png" alt=""></a>
-					</div>
-					<div class="mobile-search-bar position-relative">
-						<form action="#">
-							<input type="text" name="search" placeholder="Keywords">
-							<button><i class="fal fa-search"></i></button>
-						</form>
-					</div>
-					<nav class="mobile-main-navigation  clearfix ul-li">
-						<ul id="m-main-nav" class="nav navbar-nav clearfix">
-							<li>
-								<a href="index.html">Home</a>
-							</li>
-							<li><a href="about.html" target="_blank">About</a></li>
-							<li class="dropdown">
-								<a href="!#">Blog</a>
-								<ul class="dropdown-menu clearfix">
-									<li><a href="blog-1.html" target="_blank">Blog Minimal </a></li>
-									<li><a href="blog-2.html" target="_blank">Blog Grid</a></li>
-									<li><a href="blog-3.html" target="_blank">Blog List</a></li>
-									<li><a href="blog-single.html" target="_blank">Blog Details</a></li>
-								</ul>
-							</li>
-
-							<li class="dropdown">
-								<a href="!#">Pages</a>
-								<ul class="dropdown-menu clearfix">
-									<li><a href="service.html" target="_blank">Service Page</a></li>
-									<li class="dropdown">
-										<a href="service-single.html">Services Details</a>
-										<ul class="dropdown-menu clearfix">
-											<li><a href="service-single.html" target="_blank">Brand & Art</a></li>
-											<li><a href="service-single.html" target="_blank">Digital Marketing</a></li>
-											<li><a href="service-single.html" target="_blank">Web Development</a></li>
-											<li><a href="service-single.html" target="_blank">Design & Development</a></li>
-											<li><a href="service-single.html" target="_blank">3D Animation</a></li>
-											<li><a href="service-single.html" target="_blank">Branding & Ilastration</a></li>
-										</ul>
-									</li>
-									<li><a href="contact.html" target="_blank">Contact</a></li>
-									<li><a href="pricing.html" target="_blank">Pricing</a></li>
-									<li class="dropdown">
-										<a href="!#">Career</a>
-										<ul class="dropdown-menu clearfix">
-											<li><a href="career.html" target="_blank">Career</a></li>
-											<li><a href="career-single.html" target="_blank">Career Details</a></li>
-										</ul>
-									</li>
-									<li><a href="job-apply.html" target="_blank">Jop Apply</a></li>
-									<li><a href="team.html" target="_blank">Team Page</a></li>
-									<li><a href="team-single.html" target="_blank">Team Details</a></li>
-									<li class="dropdown">
-										<a href="!#">Portfolio</a>
-										<ul class="dropdown-menu clearfix">
-											<li><a href="portfolio.html" target="_blank">Portfolio</a></li>
-											<li><a href="portfolio-single.html" target="_blank">Portfolio Details</a></li>
-										</ul>
-									</li>
-								</ul>
-							</li>
-							<li class="dropdown">
-								<a href="!#">Others</a>
-								<ul class="dropdown-menu clearfix">
-									<li><a href="testimonial.html" target="_blank">Testimonial</a></li>
-									<li><a href="faq.html" target="_blank">Faq Page</a></li>
-									<li><a href="terms-condition.html" target="_blank">Terms & Condition</a></li>
-									<li><a href="privacy-policy.html" target="_blank">Privacy Policy</a></li>
-									<li><a href="coming-soon.html" target="_blank">Coming Soon</a></li>
-									<li><a href="404.html" target="_blank">Not Found</a></li>
-								</ul>
-							</li>
-						</ul>
-					</nav>
-					<div class="bi-mobile-header-social text-center">
-						<a href="#"> <i class="fab fa-instagram"></i></a>
-						<a href="#"> <i class="fab fa-linkedin-in"></i></a>
-						<a href="#"> <i class="fab fa-facebook"></i></a>
-						<a href="#"> <i class="fab fa-youtube"></i></a>
-					</div>
-				</div>
-			</div>
-			<!-- /Mobile-Menu -->
-		</div>
-		<!--Mobile menu ends-->
-	</header>
-	<!-- Sidebar sidebar Item -->
-	<div class="xs-sidebar-group info-group">
-		<div class="xs-overlay xs-bg-black">
-			<div class="row loader-area">
-				<div class="col-3 preloader-wrap">
-					<div class="loader-bg"></div>
-				</div>
-				<div class="col-3 preloader-wrap">
-					<div class="loader-bg"></div>
-				</div>
-				<div class="col-3 preloader-wrap">
-					<div class="loader-bg"></div>
-				</div>
-				<div class="col-3 preloader-wrap">
-					<div class="loader-bg"></div>
-				</div>
-			</div>
-		</div>
-		<div class="xs-sidebar-widget"  data-background="assets/img/bg/texture.png">
-			<div class="sidebar-widget-container">
-				<div class="widget-heading">
-					<a href="#" class="close-side-widget text-uppercase">
-						<i class="fal fa-times"></i> Close
-					</a>
-				</div>
-				<div class="sidebar-textwidget">
-
-					<!-- Sidebar Info Content -->
-					<div class="sidebar-info-contents headline pera-content">
-						<div class="content-inner">
-							<div class="sidebar-logo">
-								<a href="#"><img src="assets/img/logo/logo2.png" alt=""></a>
-							</div>
-							<div class="sidebar-menu ul-li-block">
-								<ul>
-									<li><a href="about.html"><i class="fal fa-home"></i> About Us </a></li>
-									<li><a href="service.html"><i class="fal fa-cogs"></i> Service </a></li>
-									<li><a href="testimonila.html"><i class="fal fa-comments-alt"></i> Testimonial </a></li>
-									<li><a href="team.html"><i class="fal fa-users"></i> Our Team </a></li>
-									<li><a href="portfolio.html"><i class="fal fa-briefcase"></i> Portfolio </a></li>
-									<li><a href="blog.html"><i class="fal fa-blog"></i> Blog </a></li>
-									<li><a href="contact.html"><i class="fal fa-envelope"></i> Contact </a></li>
-								</ul>
-							</div>
-							<div class="sidebar-more-menu text-uppercase d-flex ul-li">
-								<span>More:</span>
-								<ul>
-									<li><a href="#">My Account </a></li>
-									<li><a href="#">Job Apply </a></li>
-									<li><a href="#">Privacy Policy </a></li>
-								</ul> 
-							</div>
-							<div class="sidebar-social ul-li-block">
-								<span>Social:</span>
-								<ul>
-									<li><a href="#"><i class="fab fa-facebook-f"></i> Facebook</a></li>
-									<li><a href="#"><i class="fab fa-twitter"></i> Twitter</a></li>
-									<li><a href="#"><i class="fab fa-dribbble"></i> Dribble</a></li>
-									<li><a href="#"><i class="fab fa-instagram"></i> Instagram</a></li>
-								</ul>
-							</div>
-							<div class="sidebar-copyright text-center">
-								© Copyright 2023. All Rights Reserved. 
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- sidebar cart start -->
-	<div class="cart_sidebar">
-		<div class="cart_sidebar_top">
-			<h2 class="heading_title">Cart</h2>
-			<button  class="cart_close_btn tx-close"></button>
-		</div>
-		<div class="cart_items_list">
-			<div class="cart_item">
-				<div class="item_image">
-					<img src="assets/img/shop/s_img1.jpg" alt="image_not_found">
-				</div>
-				<div class="item_content headline">
-					<h4 class="item_title">
-						Rorem ipsum dolor sit amet.
-					</h4>
-					<span class="item_price">$19.00</span>
-					<button  class="remove_btn"><i class="fal fa-times"></i></button>
-				</div>
-			</div>
-			<div class="cart_item">
-				<div class="item_image">
-					<img src="assets/img/shop/s_img2.jpg" alt="image_not_found">
-				</div>
-				<div class="item_content headline">
-					<h4 class="item_title">
-						Rorem ipsum dolor sit amet.
-					</h4>
-					<span class="item_price">$22.00</span>
-					<button  class="remove_btn"><i class="fal fa-times"></i></button>
-				</div>
-			</div>
-			<div class="cart_item">
-				<div class="item_image">
-					<img src="assets/img/shop/s_img3.jpg" alt="image_not_found">
-				</div>
-				<div class="item_content headline">
-					<h4 class="item_title">
-						Rorem ipsum dolor sit amet.
-					</h4>
-					<span class="item_price">$43.00</span>
-					<button  class="remove_btn"><i class="fal fa-times"></i></button>
-				</div>
-			</div>
-			<div class="cart_item">
-				<div class="item_image">
-					<img src="assets/img/shop/s_img4.jpg" alt="image_not_found">
-				</div>
-				<div class="item_content headline">
-					<h4 class="item_title">
-						Rorem ipsum dolor sit amet.
-					</h4>
-					<span class="item_price">$14.00</span>
-					<button  class="remove_btn"><i class="fal fa-times"></i></button>
-				</div>
-			</div>
-		</div>
-		<div class="cart_sidebar_bottom">
-			<div class="total_price">
-				<span>Sub Total:</span>
-				<span>$87.00</span>
-			</div>
-			<div class="cart_sidebar_button">
-				<a  href="#">View Cart</a>
-				<a  href="#">Checkout</a>
-			</div>
-		</div>
-	</div>
-<!-- End of Header section
-	============================================= -->	
+<?php include 'includes/header.php' ?>	
 
 <!-- Start of Slider section
 	============================================= -->
@@ -356,7 +18,7 @@
 							<div class="bi-slider-text">
 								<p>"Transform your vision into a captivating digital experience. Our creative agency specializes in innovative branding, design, and marketing strategies that drive growth and inspire connection."</p>
 								<div class="bi-btn-4 text-uppercase">
-									<a href="contact.html">get started <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
+									<a href="contact.php">get started <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
 								</div>
 							</div>
 						</div>
@@ -389,7 +51,7 @@
 							<div class="bi-slider-text">
 								<p>"Transform your vision into a captivating digital experience. Our creative agency specializes in innovative branding, design, and marketing strategies that drive growth and inspire connection."</p>
 								<div class="bi-btn-4 text-uppercase">
-									<a href="contact.html">get started <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
+									<a href="contact.php">get started <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
 								</div>
 							</div>
 						</div>
@@ -422,7 +84,7 @@
 							<div class="bi-slider-text">
 								<p>"Unlock the full potential of your brand with our cutting-edge digital solutions. We craft unique, results-driven strategies that elevate businesses and captivate audiences worldwide."</p>
 								<div class="bi-btn-4 text-uppercase">
-									<a href="contact.html">get started <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
+									<a href="contact.php">get started <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
 								</div>
 							</div>
 						</div>
@@ -489,7 +151,7 @@
 								</div>
 								<div class="bi-about-btn-cta d-flex align-items-center wow fadeInUp"  data-wow-delay="400ms" data-wow-duration="1000ms">
 									<div class="bi-btn-4 text-uppercase">
-										<a href="about.html">Our Company <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
+										<a href="about.php">Our Company <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
 									</div>
 									<div class="bi-about-cta-4 d-flex align-items-center">
 										<div class="inner-icon d-flex justify-content-center align-items-center">
@@ -536,7 +198,7 @@
 					<h2 class="tx-split-text split-in-right">Unlock Revenue Growth for Your Business</h2>
 				</div>
 				<div class="bi-btn-4 text-uppercase wow fadeInRight"  data-wow-delay="300ms" data-wow-duration="1000ms">
-					<a href="portfolio.html">More Portfolio <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
+					<a href="portfolio.php">More Portfolio <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
 				</div>
 			</div>
 		</div>	
@@ -653,7 +315,7 @@
 										</ul>
 									</div>
 									<div class="bi-btn-4 text-uppercase wow fadeInRight"  data-wow-delay="400ms" data-wow-duration="1000ms">
-										<a href="about.html">About Us <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
+										<a href="about.php">About Us <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
 									</div>
 								</div>
 							</div>
@@ -693,7 +355,7 @@
 										</div>
 									</div>
 									<div class="bi-btn-4 text-uppercase">
-										<a href="about.html">About Us <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
+										<a href="about.php">About Us <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
 									</div>
 								</div>
 							</div>
@@ -841,7 +503,7 @@
 								<img src="assets/img/team/kapil.png" alt="">
 							</div>
 							<div class="team-text text-uppercase">
-								<h3><a href="team-single.html">Kapil Chauhan</a></h3>
+								<h3><a href="team-single.php">Kapil Chauhan</a></h3>
 								<span>Graphics Designer</span>
 								<div class="team-social d-flex justify-content-center">
 									<a href="#"> <i class="fab fa-instagram"></i></a>
@@ -858,7 +520,7 @@
 								<img src="assets/img/team/ravi.png" alt="">
 							</div>
 							<div class="team-text text-uppercase">
-								<h3><a href="team-single.html">Ravi Chauhan</a></h3>
+								<h3><a href="team-single.php">Ravi Chauhan</a></h3>
 								<span>Full Stack Developer</span>
 								<div class="team-social d-flex justify-content-center">
 									<a href="#"> <i class="fab fa-instagram"></i></a>
@@ -875,7 +537,7 @@
 								<img src="assets/img/team/tm1.png" alt="">
 							</div>
 							<div class="team-text text-uppercase">
-								<h3><a href="team-single.html">Lakshay Verma</a></h3>
+								<h3><a href="team-single.php">Lakshay Verma</a></h3>
 								<span>Digital Marketer</span>
 								<div class="team-social d-flex justify-content-center">
 									<a href="#"> <i class="fab fa-instagram"></i></a>
@@ -888,7 +550,7 @@
 					</div>
 				</div>
 				<div class="bi-btn-4 text-center text-uppercase">
-					<a href="team.html">All members <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
+					<a href="team.php">All members <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
 				</div>
 			</div>
 		</div>
@@ -919,11 +581,11 @@
 									<img src="assets/img/project/pro1.jpg" alt="">
 								</div>
 								<div class="portfolio-text headline">
-									<h3><a href="portfolio-single.html">Restaurant Website Design</a></h3>
+									<h3><a href="portfolio-single.php">Restaurant Website Design</a></h3>
 									<div class="portfolio-category">
-										<a href="portfolio.html">UI Design</a>
-										<a href="portfolio.html">UX Design</a>
-										<a href="portfolio.html">Website Design</a>
+										<a href="portfolio.php">UI Design</a>
+										<a href="portfolio.php">UX Design</a>
+										<a href="portfolio.php">Website Design</a>
 									</div>
 								</div>
 							</div>
@@ -932,11 +594,11 @@
 									<img src="assets/img/project/pro2.png" alt="">
 								</div>
 								<div class="portfolio-text headline">
-									<h3><a href="portfolio-single.html">Banking Landing Page Design</a></h3>
+									<h3><a href="portfolio-single.php">Banking Landing Page Design</a></h3>
 									<div class="portfolio-category">
-										<a href="portfolio.html">UI Design</a>
-										<a href="portfolio.html">UX Design</a>
-										<a href="portfolio.html">Website Design</a>
+										<a href="portfolio.php">UI Design</a>
+										<a href="portfolio.php">UX Design</a>
+										<a href="portfolio.php">Website Design</a>
 									</div>
 								</div>
 							</div>
@@ -945,11 +607,11 @@
 									<img src="assets/img/project/pro3.png" alt="">
 								</div>
 								<div class="portfolio-text headline">
-									<h3><a href="portfolio-single.html">Travel Website Design</a></h3>
+									<h3><a href="portfolio-single.php">Travel Website Design</a></h3>
 									<div class="portfolio-category">
-										<a href="portfolio.html">UI Design</a>
-										<a href="portfolio.html">UX Design</a>
-										<a href="portfolio.html">Website Design</a>
+										<a href="portfolio.php">UI Design</a>
+										<a href="portfolio.php">UX Design</a>
+										<a href="portfolio.php">Website Design</a>
 									</div>
 								</div>
 							</div>
@@ -958,11 +620,11 @@
 									<img src="assets/img/project/pro4.png" alt="">
 								</div>
 								<div class="portfolio-text headline">
-									<h3><a href="portfolio-single.html">Mobile Application Design</a></h3>
+									<h3><a href="portfolio-single.php">Mobile Application Design</a></h3>
 									<div class="portfolio-category">
-										<a href="portfolio.html">UI Design</a>
-										<a href="portfolio.html">UX Design</a>
-										<a href="portfolio.html">Website Design</a>
+										<a href="portfolio.php">UI Design</a>
+										<a href="portfolio.php">UX Design</a>
+										<a href="portfolio.php">Website Design</a>
 									</div>
 								</div>
 							</div>
@@ -975,11 +637,11 @@
 									<img src="assets/img/project/pro5.png" alt="">
 								</div>
 								<div class="portfolio-text headline">
-									<h3><a href="portfolio-single.html">Logo Design</a></h3>
+									<h3><a href="portfolio-single.php">Logo Design</a></h3>
 									<div class="portfolio-category">
-										<a href="portfolio.html">UI Design</a>
-										<a href="portfolio.html">UX Design</a>
-										<a href="portfolio.html">Website Design</a>
+										<a href="portfolio.php">UI Design</a>
+										<a href="portfolio.php">UX Design</a>
+										<a href="portfolio.php">Website Design</a>
 									</div>
 								</div>
 							</div>
@@ -988,11 +650,11 @@
 									<img src="assets/img/project/pro6.png" alt="">
 								</div>
 								<div class="portfolio-text headline">
-									<h3><a href="portfolio-single.html">Social Media Management</a></h3>
+									<h3><a href="portfolio-single.php">Social Media Management</a></h3>
 									<div class="portfolio-category">
-										<a href="portfolio.html">UI Design</a>
-										<a href="portfolio.html">UX Design</a>
-										<a href="portfolio.html">Website Design</a>
+										<a href="portfolio.php">UI Design</a>
+										<a href="portfolio.php">UX Design</a>
+										<a href="portfolio.php">Website Design</a>
 									</div>
 								</div>
 							</div>
@@ -1001,11 +663,11 @@
 									<img src="assets/img/project/pro7.png" alt="">
 								</div>
 								<div class="portfolio-text headline">
-									<h3><a href="portfolio-single.html">Simple Phone Anaylytics UI</a></h3>
+									<h3><a href="portfolio-single.php">Simple Phone Anaylytics UI</a></h3>
 									<div class="portfolio-category">
-										<a href="portfolio.html">UI Design</a>
-										<a href="portfolio.html">UX Design</a>
-										<a href="portfolio.html">Website Design</a>
+										<a href="portfolio.php">UI Design</a>
+										<a href="portfolio.php">UX Design</a>
+										<a href="portfolio.php">Website Design</a>
 									</div>
 								</div>
 							</div>
@@ -1016,9 +678,9 @@
 								<div class="portfolio-text headline">
 									<h3><a href="print.min.js">Task Management Apps Design</a></h3>
 									<div class="portfolio-category">
-										<a href="portfolio.html">UI Design</a>
-										<a href="portfolio.html">UX Design</a>
-										<a href="portfolio.html">Website Design</a>
+										<a href="portfolio.php">UI Design</a>
+										<a href="portfolio.php">UX Design</a>
+										<a href="portfolio.php">Website Design</a>
 									</div>
 								</div>
 							</div>
@@ -1026,7 +688,7 @@
 					</div>
 				</div>
 				<div class="bi-btn-4 text-center text-uppercase">
-					<a href="portfolio.html">view More <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
+					<a href="portfolio.php">view More <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
 				</div>
 			</div>
 		</div>
@@ -1050,7 +712,7 @@
 								<p>We provide competitive pricing for top-tier services, ensuring your business receives exceptional value. Our flexible packages are designed to meet your budget without compromising on quality.</p>
 							</div>
 							<div class="bi-btn-4  text-uppercase">
-								<a href="price.html">Learn More <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
+								<a href="price.php">Learn More <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
 							</div>
 						</div>
 					</div>
@@ -1345,7 +1007,7 @@
 					<h2 class="tx-split-text split-in-right">Read Our Recent News Get Every Update</h2>
 				</div>
 				<div class="bi-btn-4 text-uppercase wow fadeInRight"  data-wow-delay="200ms" data-wow-duration="1000ms">
-					<a href="blog-2.html">Learn more <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
+					<a href="blog-2.php">Learn more <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
 				</div>
 			</div>
 			<div class="bi-blog-top-content">
@@ -1357,7 +1019,7 @@
 								<span class="blog-meta position-absolute"><a href="#">18 April, 2023</a></span>
 							</div>
 							<div class="blog-text headline pera-content">
-								<h3><a href="blog-single.html">Basic Rule of Running Web</a></h3>
+								<h3><a href="blog-single.php">Basic Rule of Running Web</a></h3>
 								<p>Fusce sit amet semper velit. Ut fringilla nunc a maximus interdum. Cras pharetra scelerisque sem commodo aliquet.</p>
 							</div>
 							<div class="blog-author-more d-flex justify-content-between align-items-center">
@@ -1370,7 +1032,7 @@
 									</div>
 								</div>
 								<div class="blog-more text-uppercase">
-									<a href="blog-single.html">Read More <i class="fas fa-long-arrow-right"></i></a>
+									<a href="blog-single.php">Read More <i class="fas fa-long-arrow-right"></i></a>
 								</div>
 							</div>
 						</div>
@@ -1382,7 +1044,7 @@
 								<span class="blog-meta position-absolute"><a href="#">18 April, 2023</a></span>
 							</div>
 							<div class="blog-text headline pera-content">
-								<h3><a href="blog-single.html">UX Checklists for UI Desin</a></h3>
+								<h3><a href="blog-single.php">UX Checklists for UI Desin</a></h3>
 								<p>Fusce sit amet semper velit. Ut fringilla nunc a maximus interdum. Cras pharetra scelerisque sem commodo aliquet.</p>
 							</div>
 							<div class="blog-author-more d-flex justify-content-between align-items-center">
@@ -1395,7 +1057,7 @@
 									</div>
 								</div>
 								<div class="blog-more text-uppercase">
-									<a href="blog-single.html">Read More <i class="fas fa-long-arrow-right"></i></a>
+									<a href="blog-single.php">Read More <i class="fas fa-long-arrow-right"></i></a>
 								</div>
 							</div>
 						</div>
@@ -1407,7 +1069,7 @@
 								<span class="blog-meta position-absolute"><a href="#">18 April, 2023</a></span>
 							</div>
 							<div class="blog-text headline pera-content">
-								<h3><a href="blog-single.html">A Designers UI/UX Comple</a></h3>
+								<h3><a href="blog-single.php">A Designers UI/UX Comple</a></h3>
 								<p>Fusce sit amet semper velit. Ut fringilla nunc a maximus interdum. Cras pharetra scelerisque sem commodo aliquet.</p>
 							</div>
 							<div class="blog-author-more d-flex justify-content-between align-items-center">
@@ -1420,7 +1082,7 @@
 									</div>
 								</div>
 								<div class="blog-more text-uppercase">
-									<a href="blog-single.html">Read More <i class="fas fa-long-arrow-right"></i></a>
+									<a href="blog-single.php">Read More <i class="fas fa-long-arrow-right"></i></a>
 								</div>
 							</div>
 						</div>
@@ -1432,146 +1094,4 @@
 <!-- End Of Blog section
 	============================================= -->	
 
-<!-- Start of Footer  section
-	============================================= -->
-	<footer id="bi-footer" class="bi-footer-section" data-background="assets/img/bg/footer-bg.png">
-		<div class="bi-footer-cta blue-footer position-relative">
-			<div class="container">
-				<div class="bi-footer-cta-content headline d-flex align-items-center  justify-content-between flex-wrap" data-background="assets/img/bg/footer-bg-cta.png">
-					<div class="bi-footer-cta-text"> 
-						<h3>Looking for a
-						Design Parner?</h3>
-					</div>
-					<div class="bi-cta-btn">
-						<div class="bi-btn-4 text-uppercase wow fadeInRight"  data-wow-delay="200ms" data-wow-duration="1000ms">
-							<a href="#">Get A quote <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="bi-footer-widget-content">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-5">
-						<div class="bi-footer-widget headline pera-content ul-li-block">
-							<div class="about-widget">
-								<h3>Working Together
-								Ideas come to life</h3>
-								<p>
-									No matter how big your company is, as you expand and reach new highs you’ll want an agency to have your back. One with a process
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-2">
-						<div class="bi-footer-widget headline pera-content ul-li-block">
-							<div class="menu-widget">
-								<h3 class="widget-title">UI Design</h3>
-								<ul>
-									<li><a href="#">Estimation</a></li>
-									<li><a href="#">Research</a></li>
-									<li><a href="#">Storyboard</a></li>
-									<li><a href="#">User Flow</a></li>
-									<li><a href="#">Information </a></li>
-									<li><a href="#">Storyboard (IA)</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-3">
-						<div class="bi-footer-widget headline pera-content ul-li-block">
-							<div class="menu-widget">
-								<h3 class="widget-title">Development</h3>
-								<ul>
-									<li><a href="#">Front End (HTML, CSS, js, React)</a></li>
-									<li><a href="#">Backend (Node.js, MongoDB)</a></li>
-									<li><a href="#">iOS (Swift)</a></li>
-									<li><a href="#">Android (Kotlin, Flutter)</a></li>
-									<li><a href="#">Post Delivery Support</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-2">
-						<div class="bi-footer-widget headline pera-content ul-li-block">
-							<div class="menu-widget">
-								<h3 class="widget-title">UI Design</h3>
-								<ul>
-									<li><a href="#">Define Idea</a></li>
-									<li><a href="#">Target Audience</a></li>
-									<li><a href="#">Idea Validation</a></li>
-									<li><a href="#">Customer Value </a></li>
-									<li><a href="#">Build MVP Version</a></li>
-									<li><a href="#">Competitor Reserach</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="bi-footer-social">
-			<div class="container">
-				<div class="bi-footer-social-content ul-li">
-					<ul>
-						<li><a href="#"><i class="fal fa-basketball-ball"></i> Dribbble </a></li>
-						<li><a href="#"><i class="fab fa-behance-square"></i>  Behance  </a></li>
-						<li><a href="#"><i class="fab fa-linkedin-in"></i> Linked In    </a></li>
-						<li><a href="#"><i class="fab fa-facebook-f"></i> Facebook  </a></li>
-						<li><a href="#"><i class="fab fa-instagram"></i> Instagram  </a></li>
-						<li><a href="#"><i class="fab fa-youtube"></i> Youtube </a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
-		<div class="bi-footer-logo-area">
-			<div class="container">
-				<div class="bi-footer-logo">
-					<div class="brand-logo text-center">
-						<a href="#"><img src="assets/img/logo/logo2.png" alt=""></a>
-					</div>
-					<div class="logo-mail text-center headline">
-						<h3><a href="#">support@sqrball.com</a></h3>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="bi-footer-copyright text-center">
-			Copyright 2023 @SQR Ball Digital
-		</div>
-	</footer>	
-<!-- End of Footer  section
-	============================================= -->	
-
-
-	<!-- For Js Library -->
-	<script src="assets/js/jquery-3.6.0.min.js"></script>
-	<script src="assets/js/bootstrap.bundle.min.js"></script>
-	<script src="assets/js/swiper-bundle.min.js"></script>
-	<script src="assets/js/appear.js"></script>
-	<script src="assets/js/counter.js"></script>
-	<script src="assets/js/gsap.min.js"></script>
-	<script src="assets/js/knob.js"></script>
-	<script src="assets/js/jquery.magnific-popup.min.js"></script>
-	<script src="assets/js/jquery.counterup.min.js"></script>
-	<script src="assets/js/waypoints.min.js"></script>
-	<script src="assets/js/parallax.min.js"></script>
-	<script src="assets/js/ScrollTrigger.min.js"></script>
-	<script src="assets/js/ScrollToPlugin.min.js"></script>
-	<script src="assets/js/ScrollSmoother.min.js"></script>
-	<script src="assets/js/SplitText.min.js"></script>
-	<script src="assets/js/jquery.filterizr.js"></script>
-	<script src="assets/js/imagesloaded.pkgd.min.js"></script>
-	<script src="assets/js/hover-revel.js"></script>
-	<script src="assets/js/split-type.min.js"></script>
-	<script src="assets/js/parallax-scroll.js"></script>
-	<script src="assets/js/jquery.marquee.min.js"></script>
-	<script src="assets/js/wow.min.js"></script>
-	<script src="assets/js/jquery.meanmenu.min.js"></script>
-	<script src="assets/js/tilt.jquery.min.js"></script>
-	<script src="assets/js/matter.min.js"></script>
-	<script src="assets/js/script1.js"></script>
-
-</body>
-</html>			
+	<?php include 'includes/footer.php' ?>	
