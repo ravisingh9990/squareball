@@ -33,14 +33,17 @@
 					<div class="col-lg-2">
 						<div class="bi-footer-widget headline pera-content ul-li-block">
 							<div class="menu-widget">
-								<h3 class="widget-title">UI Design</h3>
+								<h3 class="widget-title">Website</h3>
 								<ul>
-									<li><a href="#">Estimation</a></li>
-									<li><a href="#">Research</a></li>
-									<li><a href="#">Storyboard</a></li>
-									<li><a href="#">User Flow</a></li>
-									<li><a href="#">Information </a></li>
-									<li><a href="#">Storyboard (IA)</a></li>
+									<li><a href="#">UI/UX Designing</a></li>
+									<li><a href="#">Development</a></li>
+									<li><a href="#">SEO</a></li>
+									<li><a href="#">Web Application</a></li>
+									<li><a href="#">Landing Page </a></li>
+									<li><a href="#">Front End (js, React)</a></li>
+									<li><a href="#">Backend (Node.js, php)</a></li>
+									<li><a href="#">Android (Kotlin, Flutter)</a></li>
+									<li><a href="#">Post Delivery Support</a></li>
 								</ul>
 							</div>
 						</div>
@@ -48,13 +51,17 @@
 					<div class="col-lg-3">
 						<div class="bi-footer-widget headline pera-content ul-li-block">
 							<div class="menu-widget">
-								<h3 class="widget-title">Development</h3>
+								<h3 class="widget-title">Marketing</h3>
 								<ul>
-									<li><a href="#">Front End (HTML, CSS, js, React)</a></li>
-									<li><a href="#">Backend (Node.js, MongoDB)</a></li>
-									<li><a href="#">iOS (Swift)</a></li>
-									<li><a href="#">Android (Kotlin, Flutter)</a></li>
-									<li><a href="#">Post Delivery Support</a></li>
+									<li><a href="#">Google My Business Profile</a></li>
+									<li><a href="#">Social Media Optimization</a></li>
+									<li><a href="#">Social Media Management</a></li>
+									<li><a href="#">Pay Per Click (PPC) Ads</a></li>
+									<li><a href="#">Meta(Facebook) Ads</a></li>
+									<li><a href="service.php">Instagram Ads</a></li>
+									<li><a href="service.php">Youtube Ads</a></li>
+									<li><a href="service.php">Google Ads</a></li>
+									<li><a href="service.php">Email Marketing</a></li>
 								</ul>
 							</div>
 						</div>
@@ -62,14 +69,14 @@
 					<div class="col-lg-2">
 						<div class="bi-footer-widget headline pera-content ul-li-block">
 							<div class="menu-widget">
-								<h3 class="widget-title">UI Design</h3>
+								<h3 class="widget-title">Designing & Editing</h3>
 								<ul>
-									<li><a href="#">Define Idea</a></li>
-									<li><a href="#">Target Audience</a></li>
-									<li><a href="#">Idea Validation</a></li>
-									<li><a href="#">Customer Value </a></li>
-									<li><a href="#">Build MVP Version</a></li>
-									<li><a href="#">Competitor Reserach</a></li>
+									<li><a href="service.php">Logo Creation</a></li>
+									<li><a href="service.php">Social Media Posts</a></li>
+									<li><a href="service.php">Flyer Designing</a></li>
+									<li><a href="service.php">Boucher Designing</a></li>
+									<li><a href="service.php">Ebook Designing</a></li>
+									<li><a href="service.php">Digital Ads Designing</a></li>
 								</ul>
 							</div>
 						</div>
