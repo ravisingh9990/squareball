@@ -581,7 +581,7 @@
 									<img src="assets/img/project/pro1.jpg" alt="">
 								</div>
 								<div class="portfolio-text headline">
-									<h3><a href="portfolio-single.php">Restaurant Website Design</a></h3>
+									<h3><a href="portfolio-single.php">Finance Website Design</a></h3>
 									<div class="portfolio-category">
 										<a href="portfolio.php">UI Design</a>
 										<a href="portfolio.php">UX Design</a>
